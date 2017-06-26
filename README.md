@@ -1,4 +1,4 @@
-# singularity
+# singularity_masi
 Repository for singularity definition files.
 
 1. cDNN_singularity_accre.def
